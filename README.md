@@ -1,24 +1,42 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+this is a rails api that gives random greetings messages
 
-* Ruby version
+> react front-end repo
+`https://github.com/rachidelaid/hello-react-front-end`
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby
+- Ruby on Rails
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get the content of this project locally you need to run this command in your terminal:
 
-* How to run the test suite
+```bash
+git clone your git@github.com:rachidelaid/hello-rails-back-end.git
+cd hello-rails-back-end
+bundle install
+rails s -p 3001
+```
+make sure you set the post to `3001` other ways you have to change it in the react app.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Authors
 
-* Deployment instructions
+👤 **Rachid El aid**
 
-* ...
+- GitHub: [@rachidelaid](https://github.com/rachidelaid)
+- Twitter: [@rachidelaid1](https://twitter.com/rachidelaid1)
+- LinkedIn: [rachid elaid](https://www.linkedin.com/in/rachidelaid/)
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
